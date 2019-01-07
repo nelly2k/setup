@@ -7,6 +7,7 @@ choco install googlechrome
 choco install fiddler4
 choco install linqpad5
 choco install nodejs
+choco install notepadplusplus
 choco install openvpn
 choco install postman
 choco install resharper
