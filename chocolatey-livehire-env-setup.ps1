@@ -1,5 +1,5 @@
 choco install awscli
-choco install office365business
+choco install azure-cli
 choco install cmder
 choco install docker
 choco install git
@@ -8,11 +8,13 @@ choco install fiddler4
 choco install linqpad5
 choco install nodejs
 choco install notepadplusplus
+choco install office365business
 choco install openvpn
 choco install postman
 choco install resharper
 choco install slack
 choco install Spotify
+choco install terraform
 choco install totalcommander
 choco install vscode
 choco install visualstudio2017professional
