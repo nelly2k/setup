@@ -1,21 +1,21 @@
-choco install awscli
-choco install azure-cli
-choco install cmder
-choco install docker
-choco install git
-choco install googlechrome
-choco install fiddler4
-choco install linqpad5
-choco install nodejs
-choco install notepadplusplus
-choco install office365business
-choco install openvpn
-choco install postman
-choco install resharper
-choco install slack
-choco install Spotify
-choco install terraform
-choco install totalcommander
-choco install vscode
-choco install visualstudio2017professional
-choco install yarn
+choco install awscli -y
+choco install azure-cli -y
+choco install cmder -y
+choco install docker -y
+choco install git -y
+choco install googlechrome -y
+choco install fiddler4 -y
+choco install linqpad5 -y
+choco install nodejs -y
+choco install notepadplusplus -y
+choco install office365business -y
+choco install openvpn -y
+choco install postman -y
+choco install resharper -y
+choco install slack -y
+choco install Spotify -y
+choco install terraform -y
+choco install totalcommander -y
+choco install vscode -y
+choco install visualstudio2017professional -y
+choco install yarn -y
