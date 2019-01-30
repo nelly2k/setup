@@ -4,7 +4,7 @@ choco install cmder -y
 choco install docker -y
 choco install git -y
 choco install googlechrome -y
-choco install fiddler4 -y
+choco install fiddler -y
 choco install linqpad5 -y
 choco install nodejs -y
 choco install notepadplusplus -y
