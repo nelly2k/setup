@@ -15,5 +15,5 @@ choco install Spotify -y
 choco install terraform -y
 choco install totalcommander -y
 choco install vscode -y
-choco install visualstudio2017professional -y
+choco install visualstudio2019professional -y
 choco install yarn --version 1.10.1 -y
